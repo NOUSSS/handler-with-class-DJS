@@ -1,0 +1,24 @@
+{
+  "name": "handler-with-class",
+  "version": "1.0.0",
+  "description": "Handler avec des classes pour que ce soit optimisé.",
+  "main": "src/index",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^12.5.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NOUSSS/handler-with-class-DJS.git"
+  },
+  "author": "NouSs#9999",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NOUSSS/handler-with-class-DJS/issues"
+  },
+  "homepage": "https://github.com/NOUSSS/handler-with-class-DJS#readme"
+}
